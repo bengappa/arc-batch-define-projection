@@ -5,6 +5,9 @@ Built for Arc 10.x +
 
 When in Arc Catalog, adding a script tool to a toolbox:
 
+
 GetParameterAsText(0) = Folder
+
 GetParameterAsText(1) = Projection
+
 GetParameterAsText(2) = Boolean
