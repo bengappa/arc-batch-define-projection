@@ -1,6 +1,5 @@
 #
 #       A Simple batch Define Projection tool
-#       Made for the C-MAP Minneapolis QC Team
 #       
 #       Benjamin Gappa
 #       2/4/17
